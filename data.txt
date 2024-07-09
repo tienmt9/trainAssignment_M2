@@ -1,0 +1,1 @@
+Employee{id='1613544', name='TMT', position='CS', salary=1.0E7, income=1.5E7, tax=1500000.0}
