@@ -1,3 +1,5 @@
+package Model;
+
 public class Director extends Employee {
     public Director(String id, String name, String position, double salary) {
         super(id, name, position, salary);

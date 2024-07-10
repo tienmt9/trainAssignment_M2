@@ -1,3 +1,5 @@
+package Model;
+
 public class Manager extends Employee {
     public Manager(String id, String name, String position, double salary) {
         super(id, name, position, salary);

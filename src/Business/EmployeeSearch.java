@@ -1,3 +1,7 @@
+package Business;
+
+import Model.Employee;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 

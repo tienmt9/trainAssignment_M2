@@ -1,3 +1,5 @@
+package Model;
+
 public class BUHead extends Employee {
     public BUHead(String id, String name, String position, double salary) {
         super(id, name, position, salary);
